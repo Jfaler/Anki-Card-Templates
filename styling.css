@@ -1,0 +1,147 @@
+html{ background: #48C1A9;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 10px;  /* remove scrollbar space */
+/*  background: transparent;  /* optional: just make scrollbar invisible */
+}
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+
+.card {
+  position: relative;
+  animation: mymove 5s infinite;
+  vertical-align:middle;
+  border-radius: 30px;
+  background-color: #48C1A9;
+  font-family: Arial; 
+  font-size: 22px; 
+  font-weight: bold;
+  text-align: center; 
+  color: white; 
+  margin: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border: 10px outset rgba(255,255,255,0.1);
+  padding: 20px;
+  width:80%;
+  height:90%;
+  overflow: auto;
+}
+
+@keyframes mymove {
+  50% {border: 10px outset  rgba(255,255,255,0.2);}
+}
+
+img {
+  max-width: 90%;
+  max-height: 90%;
+  display: block;
+  margin: auto;
+}
+
+.cloze { font-weight: bold; color: gray; }
+
+.extra {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+ }
+
+ .meta {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+ }
+
+.timer {
+  font-style: bold !important;
+  font-size: 24px;
+  text-align: center;
+  color: coral;
+ }
+
+#action {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+}
+
+#answer {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+ font-weight:bold;
+}
+
+#attachments{
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+}
+
+#clinic {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+  text-align: justify;
+  font-style: italic;
+}
+
+#comment {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+  font-style:italic;
+  text-align: justify
+}
+
+#question {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+  font-weight:bold;
+}
+
+#innervation {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+}
+
+#insertion {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+}
+
+#instructions {
+  font-family: verdana;
+  font-size: 18px;
+  color: white  
+}
+
+#origin{
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+}
+
+#refid {
+  text-align: middle;
+}
+
+#title {
+  font-family:verdana;
+  font-size: 18px;
+  color: white
+}
+
+#question {
+  font-family: verdana;
+  font-size: 18px;
+  color: white;
+}
