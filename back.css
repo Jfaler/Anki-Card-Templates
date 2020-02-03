@@ -1,10 +1,10 @@
-{{FrontSide}}
-
 <div class = def>
 {{Back}}
 </div>
 <style>
 .def {
 float: right;
+padding: 50px;
+text-align:center;
 }
 </style>
