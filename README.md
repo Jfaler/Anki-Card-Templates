@@ -1,5 +1,10 @@
 # Anki Card Templates
-This command line template is best used with the fill in the blank add-on https://ankiweb.net/shared/info/1933645497
+This command line template is best used with the fill in the blank multiple cloze add-on https://ankiweb.net/shared/info/1933645497
+
+## Installation
+1. Clone this repo and import the sample .apkg to Anki
+2. Install missing fonts such as Lucida Console or Consolas
+
 <p align="center">
 <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/75100615-ef79c380-5584-11ea-9782-2ebfa154c5e2.PNG">
 <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/75100614-ec7ed300-5584-11ea-86d4-61141848379e.PNG">
