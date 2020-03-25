@@ -8,9 +8,9 @@ This command line template is best used with the fill in the blank multiple cloz
 <p align="center">
 <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/77593357-50acf380-6eb1-11ea-912b-75593622fbff.PNG">
   <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/77593547-9ff32400-6eb1-11ea-9a21-a56ce86be463.PNG">
+  <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/77594099-d67d6e80-6eb2-11ea-8bdc-b324f13676f5.PNG">
   <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/77593713-e0eb3880-6eb1-11ea-98ac-61ade42de8f1.PNG">
   
 <img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/77593811-1bed6c00-6eb2-11ea-889a-94cbcc16464b.PNG">
 
-<img width="855" alt="image" src="https://user-images.githubusercontent.com/8336385/77594099-d67d6e80-6eb2-11ea-8bdc-b324f13676f5.PNG">
   </p>
